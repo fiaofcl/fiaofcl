@@ -2,21 +2,30 @@
 
 🎓 B.Tech Electronics & Computer Engineering student at JIIT, Noida.
 
-💻 Interested in Artificial Intelligence, Machine Learning, Web Development, and Backend Development. I enjoy building projects, learning new technologies, and applying my skills to solve real-world problems.
+💻 Passionate about Artificial Intelligence, Machine Learning, and Backend Development. I enjoy building projects, learning new technologies, and applying my skills to solve real-world problems.
 
 🔭 Currently learning and working with:
+- Artificial Intelligence (AI)
+- Machine Learning
+- Large Language Models (LLMs)
 - Python and Flask
-- Machine Learning fundamentals
 - Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
 - Generative AI and AI-powered applications
 
-🛠️ Tech Stack:
-`Python` • `C` • `C++` • `Flask` • `HTML` • `CSS` • `JavaScript` • `MySQL` • `Git` • `GitHub`
+🛠️ Skills:
+`Python` • `C` • `C++` • `JavaScript` • `HTML` • `CSS` • `Flask` • `Node.js` • `Git` • `GitHub`
 
-🌱 Always curious, always learning, and always excited to build something new.
+🌱 Exploring:
+- AI Agents and Multi-Agent Systems
+- RAG (Retrieval-Augmented Generation)
+- Prompt Engineering
+- LLM Application Development
+- Backend Development
+
+🏢 Experience:
+- Summer Intern @ Acxiom Consulting
+- Summer Intern @ Indian Oil Corporation Limited (IOCL)
+- Summer Intern @ Tech Mahindra
 
 ✨ Turning ideas into projects and projects into learning experiences.
-
-![Aafia's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiaofcl&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiaofcl&layout=compact&theme=tokyonight)
