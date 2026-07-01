@@ -30,4 +30,3 @@ Passionate about Artificial Intelligence, Machine Learning, and Backend Developm
 
 ✨ Turning ideas into projects and projects into learning experiences.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fiaofcl&layout=compact&theme=tokyonight)
