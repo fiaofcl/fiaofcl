@@ -4,7 +4,7 @@ B.Tech Electronics & Computer Engineering student at JIIT, Noida.
 
 Passionate about Artificial Intelligence, Machine Learning, and Backend Development. I enjoy building projects, learning new technologies, and applying my skills to solve real-world problems.
 
-Currently learning and working with:
+## Currently Learning and Working With
 - Artificial Intelligence (AI)
 - Machine Learning
 - Large Language Models (LLMs)
@@ -13,17 +13,17 @@ Currently learning and working with:
 - Object-Oriented Programming (OOP)
 - Generative AI and AI-powered applications
 
-Skills:
+## Tech Stack
 `Python` • `C` • `C++` • `JavaScript` • `HTML` • `CSS` • `Flask` • `Node.js` • `Git` • `GitHub`
 
-Exploring:
+## Exploring
 - AI Agents and Multi-Agent Systems
-- RAG (Retrieval-Augmented Generation)
+- Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
 - LLM Application Development
 - Backend Development
 
-Experience:
+## Experience
 - Summer Intern @ Acxiom Consulting
 - Summer Intern @ Indian Oil Corporation Limited (IOCL)
 - Summer Intern @ Tech Mahindra
