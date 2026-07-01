@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Aafia+Ali+%F0%9F%91%8B;AI+%26+ML+Enthusiast;Electronics+%26+Computer+Engineering+Student;Always+Learning+New+Things!)](https://git.io/typing-svg)
 # Hi there, I'm Aafia Ali 👋
 
 🎓 B.Tech Electronics & Computer Engineering student at JIIT, Noida.
