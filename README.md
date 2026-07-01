@@ -28,5 +28,10 @@ Passionate about Artificial Intelligence, Machine Learning, and Backend Developm
 - Summer Intern @ Indian Oil Corporation Limited (IOCL)
 - Summer Intern @ Tech Mahindra
 
+## GitHub
+
+- Maintained 15+ public repositories across AI, Machine Learning, and Software Development.
+- Actively building projects and exploring new technologies.
+
 ✨ Turning ideas into projects and projects into learning experiences.
 
