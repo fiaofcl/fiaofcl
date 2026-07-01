@@ -16,3 +16,7 @@
 🌱 Always curious, always learning, and always excited to build something new.
 
 ✨ Turning ideas into projects and projects into learning experiences.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Aafia's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiaofcl&show_icons=true)
